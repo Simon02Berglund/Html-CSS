@@ -1,0 +1,49 @@
+header{
+    position: relative;
+}
+.beskrivning{
+    margin: 0 auto;
+    position: absolute;
+    right:375px ;
+    top: 55%;
+}
+.Beskrivning2{
+    margin: 0 auto;
+    position: absolute;
+    right:675px ;
+    top: 55%;
+}
+.Beskrivning3{
+    margin: 0 auto;
+    position: absolute;
+    right:975px ;
+    top: 55%;
+}
+
+.bild1{
+    margin: 0 auto;
+    position: absolute;
+    right:300px ;
+    top: 30%;
+    border: solid #000;
+    border-radius: 5px;
+}
+.bild2{
+    margin: 0 auto;
+    position: absolute;
+    right: 600px;
+    top: 30%;
+    border: solid #000;
+    border-radius: 5px;
+}
+.bild3{
+    margin: 0 auto;
+    position: absolute;
+    right: 900px;
+    top: 30%;
+    border: solid #000;
+    border-radius: 5px;
+}
+
+
+
